@@ -1,4 +1,4 @@
-## Oiii eu sou o Halysson Marques, estudante de programação e tecnologia!
+## Oiii eu sou o Halysson Marques, estudante de programação e tralho com tecnologia!
 - 👀 Tenho interesse em trabalhar com front-end
 - 🌱 Estudando Typescript
 - 📱 Contate-me no email: halyssonmarques@yahoo.com.br
